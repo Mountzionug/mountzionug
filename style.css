@@ -37,7 +37,7 @@ header {
 	height: 515px;
 	/*position:
 	top: px;*/
-	background-image: linear-gradient(rgba(4,9,30,0.5),rgba(4,9,30,0.6)), url(images/worship.jpg);
+	background-image: linear-gradient(rgba(4,9,30,0.5),rgba(4,9,30,0.6)), url(worship.jpg);
     /*background-image: url(https://i.postimg.cc/T3B3WFcv/2.jpg);*/
 	-webkit-background-size: cover;
 	background-size: cover;
