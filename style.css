@@ -602,7 +602,7 @@ h3{
     border: 1px;
     border-radius: 5px;
     margin: 0;
-    color: #0073cf;
+    color: blue;
     cursor: pointer;
     padding: 10px 5;
     transition: transform .2s;
