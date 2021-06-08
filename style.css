@@ -950,11 +950,11 @@ div.desc {
             margin: 5px;
         }
        .square p {
-           font-family: source sans pro;
+           font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif,museo-sans,source sans pro;
             text-align: justify;
             font-size: 18px;
            margin: 10px 0;
-            color: lightblack;
+            /*color: lightblack;*/
         }
 .square h3{
     text-align: justify;
