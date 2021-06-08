@@ -602,20 +602,20 @@ h3{
     border: 1px;
     border-radius: 5px;
     margin: 0;
-    color: blue;
+    color: #0073cf;
     cursor: pointer;
     padding: 10px 5;
-    transition: 0.3s;
+    transition: transform .2s;
 }
 
 .icons .fa:hover{
-    color: red;
+     transform: scale(1.2); 
 }
-.icons .fa::after{
+/*.icons .fa::after{
     background: red;
     display: block;
     transition: 0.5s;
-}
+}*/
 
 /*-------about us page------*/
 
