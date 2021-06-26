@@ -796,7 +796,8 @@ div.desc {
     color: #f44336;
 }
 .red-btn:hover{
-    color: #0073cf;
+    color: #fff;
+    background: #0073cf;
 }
 
 .blog-content{
