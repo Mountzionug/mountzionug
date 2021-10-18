@@ -11,29 +11,52 @@ let allMusic = [
     img: "music-2",
     src: "music-2"
   },
-  /*{
-    name: "Nobody",
-    artist: "Tim Godfrey ft IBK",
+  {
+    name: "Don't be Afraid",
+    artist: "Pastor Deo",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "ALl That Matters",
-    artist: "Minister GUC",
+    name: "Expalnation of 'I was glad whem they told me, Lets go into the house of the Lord'",
+    artist: "Pastor Deo",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Only You Can Satisfy",
-    artist: "William McDonald",
+    name: "Fear or Faith",
+    artist: "Pastor Deo",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Stand Amazed",
-    artist: "Sinach",
+    name: "Fear Or Faith( Part-2)",
+    artist: "Pastor Deo",
     img: "music-6",
     src: "music-6"
+  },
+  {
+    name: "Prophecy Over Yourself)",
+    artist: "Pastor Deo",
+    img: "music-6",
+    src: "music-7"
+  },
+  {
+    name: "Raise Your Faith)",
+    artist: "Pastor Deo",
+    img: "music-6",
+    src: "music-8"
+  },{
+    name: "The Lord God, Your God is with You",
+    artist: "Pastor Deo",
+    img: "music-6",
+    src: "music-9"
+  },
+  {
+    name: "The only wisdom you can ever need",
+    artist: "Pastor Deo",
+    img: "music-6",
+    src: "music-10"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
